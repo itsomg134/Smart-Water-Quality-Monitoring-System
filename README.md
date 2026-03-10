@@ -1,6 +1,6 @@
 # Smart Water Quality Monitoring System
 
-![Project Banner](https://via.placeholder.com/1200x300/0077be/ffffff?text=Smart+Water+Quality+Monitoring+System)
+![Screenshot_10-3-2026_2206_app cirkitdesigner com](https://github.com/user-attachments/assets/20d25fa7-366c-404a-88d5-7e37161d29d8)
 
 A comprehensive Arduino-based water quality monitoring system that measures and displays critical water parameters including temperature, turbidity, and tank water level. This project features real-time data visualization on an OLED display and is perfect for aquarium monitoring, water treatment plants, or smart home water management systems.
 
